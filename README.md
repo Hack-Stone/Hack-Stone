@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/user-attachments/assets/3b9452da-680e-4531-847d-737e46acabd7)
 <h1 align="center">Hi 👋, I'm Pithadia Dhairya</h1>
-<h3 align="center">Dedicated computer science student at VPMP Polytechnic with a solid foundation in software development, data structures, and algorithms. Actively participates in hackathons, contributes to open-source projects, and stays current with the latest tech trends.🚀 Founder of HackStone, a cybersecurity and IT services startup. 🤖 Completed Machine Learning internship – focused on real-world ML projects. 🌐 Completed Django internship – built full-stack web apps with Django and REST APIs. 💡 Passionate about AI, cybersecurity, and web development.</h3>
+<h3 align="center">Dedicated computer science student at VPMP Polytechnic with a solid foundation in software development, data structures, and algorithms. Actively participates in hackathons, contributes to open-source projects, and stays current with the latest tech trends.<br>🚀 Founder of HackStone, a cybersecurity and IT services startup. <br>🤖 Completed Machine Learning internship – focused on real-world ML projects. <br>🌐 Completed Django internship – built full-stack web apps with Django and REST APIs. <br>💡 Passionate about AI, cybersecurity, and web development.</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
