@@ -8,8 +8,6 @@ My name is Pithadia Dhairya, and I am the founder of HackStone. I'm from India.
 
 
 ## 🔧 Technologies & Tools
-<br clear="both">
-
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
   <img width="12" />
