@@ -67,5 +67,4 @@ My name is Pithadia Dhairya, and I am the founder of HackStone. I'm from India.
 </div>
 
 ###
-A white circle with a dark file icon outlined in the center
-Profile Readme G
+## &#x1f4c8; GitHub Stats
