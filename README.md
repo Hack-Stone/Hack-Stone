@@ -7,7 +7,7 @@
 My name is Pithadia Dhairya, and I am the founder of HackStone. I'm from India.
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
   <img width="12" />
@@ -79,4 +79,8 @@ My name is Pithadia Dhairya, and I am the founder of HackStone. I'm from India.
 
 
 
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hack-Stone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
