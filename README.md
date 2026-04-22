@@ -1,4 +1,4 @@
-<img src="Banner_white.png"/>
+<img src="Banner.png"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhairya-pithadia" target="_blank">
