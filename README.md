@@ -36,7 +36,7 @@
    <img src="ima/img3.png" width="15"/>   <em><b> Founder at HackStone — IT & Cybersecurity Company </b></em> <br/>
    <img src="ima/img4.png" width="15"/>   <em><b> Founder at CraftTech — Graphic Design Company </b></em><br/>
    <img src="ima/img2.png" width="15"/>   <em><b> Computer Engineering Student — Final Year </b></em><br/>
-   <img src="ima/img1.png" width="15"/>   <em><b> Building Private Cloud Infrastructure (OpenStack) </b></em><br/>
+   <img src="ima/img1.png" width="15"/>   <em><b> Chess Player </b></em><br/>
 </p>
 
 <br/>
