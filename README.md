@@ -1,123 +1,106 @@
-<!-- More info tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<img src="Banner.png"/>
 
-[![Header](https://github.com/Hack-Stone/Hack-Stone/blob/main/Banner.png?raw=true"Header")](https://martinheinz.dev/)
-
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is Pithadia Dhairya, and I am the founder of HackStone. I'm from India.
-
-
-## Technologies & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" height="40" alt="wordpress logo"  />
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-
-## Social media
-
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/dhairya-pithadia" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/dhairya_9_9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:Pithadiadhairya99@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo" />
-  </a>
-  <a href="https://stackoverflow.com/users/31146751/dhairya-9-9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo" />
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://x.com/dhairya_9_9" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</div>
+  <a href="mailto:Pithadiadhairya99@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/31146751/dhairya-9-9" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+</p>
 
+<br>
 
+<h2 align="center"> <img src="ima/title1.png" width="25"/> <em>About me</em></h2>
 
+<img src="https://camo.githubusercontent.com/120777fc957341f76ca1b41f8bcbd33c08ef5bcb056b859041706500aa8cf0ad/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66372f31642f34376637316437653335326461303030333265346265373564663834623563352e676966" width="250" align="right" style="margin-left: 20px;" />
 
-## GitHub Stats
+<br/>
+
+<p>
+  Hello There! <em><b> I'm Dhairya Pithadia </b></em>, Founder of <b>HackStone</b> — an IT & Cybersecurity company, and <b>CraftTech</b> — a graphic design company. I'm a Computer Engineering student passionate about cybersecurity, ethical hacking, and building private cloud infrastructure from scratch.
+</p>
+
+<br/>
+
+<p align="center">
+   <img src="ima/img3.png" width="15"/>   <em><b> Founder at HackStone — IT & Cybersecurity Company </b></em> <br/>
+   <img src="ima/img4.png" width="15"/>   <em><b> Founder at CraftTech — Graphic Design Company </b></em><br/>
+   <img src="ima/img2.png" width="15"/>   <em><b> Computer Engineering Student — Final Year </b></em><br/>
+   <img src="ima/img1.png" width="15"/>   <em><b> Building Private Cloud Infrastructure (OpenStack) </b></em><br/>
+</p>
+
+<br/>
+<br/>
+
+<h2 align="center"> <img src="ima/title2.png" width="25"/> <em> Technologies </em> </h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenStack-000000?style=for-the-badge&logo=openstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-000000?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+<br/>
+
+<h2 align="center"> 💬 <em> Quote </em> </h2>
+
+<br/>
+
+<p align="center">
+  <em><b>« The quieter you become, the more you are able to hear. »</b></em>
+  <br/>
+  <sub>— Kali Linux motto &amp; hacker's philosophy</sub>
+</p>
+
+<br/>
+
+<h2 align="center"> <img src="ima/title3.png" width="25"/> <em> Statistics </em> </h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hack-Stone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hack-Stone&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hack-Stone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hack-Stone&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&border_color=ffffff&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hack-Stone&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&bg_color=000000&text_color=ffffff&border_color=ffffff&hide_border=false" height="150" alt="languages graph" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hack-Stone&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Hack-Stone&locale=en&mode=daily&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hack-Stone&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Hack-Stone&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="trophy graph" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Hack-Stone&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
