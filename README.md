@@ -20,6 +20,14 @@
 
 <br>
 
+<h2 align="center"> 🖥️ <em>Terminal Portrait</em></h2>
+
+<div align="center">
+  <img src="terminal_portrait.svg" width="600" alt="Animated ASCII terminal portrait" />
+</div>
+
+<br>
+
 <h2 align="center"> <img src="ima/title1.png" width="25"/> <em>About me</em></h2>
 
 <img src="https://camo.githubusercontent.com/120777fc957341f76ca1b41f8bcbd33c08ef5bcb056b859041706500aa8cf0ad/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66372f31642f34376637316437653335326461303030333265346265373564663834623563352e676966" width="250" align="right" style="margin-left: 20px;" />
